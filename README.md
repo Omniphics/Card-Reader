@@ -3,6 +3,8 @@
 [C++ Version Download](https://forum.lowyat.net/index.php?s=484e91db040ef5380db8e751ef38c07e&act=Attach&type=post&id=255340) 
 from lowyat forum user xenon
 
+Python Version is in the Python folder
+
 ## Prerequisite
 1. PHP Server
 2. Smart Reader Device
